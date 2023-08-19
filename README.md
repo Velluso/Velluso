@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Java & Python**
 
-- 📫 How to reach me **Contat me on Linkedin!**
+- 📫 How to reach me: **Contact me on Linkedin!!**
 
 - 🌏 Visit to my <a href="http://velluso.gq/">Portfolio</a>
 
