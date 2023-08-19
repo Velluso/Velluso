@@ -10,7 +10,7 @@
     <a href="https://www.linkedin.com/in/marco-velluso-27a2aa214/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
     
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Velluso&label=Profile%20views&color=0e75b6&style=flat"
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Velluso&label=Profile%20views&color=0e75b6&style=flat"
                       alt="velluvisite" />
     </p>
     </br> 
@@ -61,14 +61,16 @@
         
 
 </p>
-<p align="center">
-<h2 align="center"><i>Operating Systems</i></h2>
+<br>
 
+<h2 align="center"><i>Operating Systems</i></h2>
+<p align="center">
 <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" alt="kali" />
 <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="macos" />
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows" />
 
 </p>
+<br>
 <p align="center"><img 
         src="https://github-readme-stats.vercel.app/api/top-langs?username=Velluso&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></p>    
 <p align="center">
@@ -83,7 +85,7 @@
      </a>
 </p>
 
-  <!-- deivder -->
+
   
   <p align="center">
     <a href="https://github.com/Velluso"><span>
