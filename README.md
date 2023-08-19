@@ -61,7 +61,7 @@
         
 
 </p>
-<p>
+<p align="center">
 <h2 align="center"><i>Operating Systems</i></h2>
 
 <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" alt="kali" />
