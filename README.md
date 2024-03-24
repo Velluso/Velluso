@@ -17,7 +17,7 @@
     
 - 🔭 I’m currently pursuing **Full Stack Java Development**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Vue**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Java & Python**
 
