@@ -4,7 +4,7 @@
    
  
 <h1 align="center">Hello 👋, I'm Marco Velluso</h1>
-<h3 align="center">A Java Full Stack Developer</h3>
+<h3 align="center">A Full Stack Developer</h3>
 <hr>
 <p align="center">
     <a href="https://www.linkedin.com/in/marco-velluso-27a2aa214/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
@@ -15,7 +15,7 @@
     </p>
     </br> 
     
-- 🔭 I’m currently pursuing **Full Stack Java Development**
+- 🔭 I’m currently pursuing **Full Stack Development**
 
 - 🌱 I’m currently learning **Vue**
 
@@ -27,7 +27,6 @@
 
 - 👨‍💻 All my projects are available at my [Git_Hub](https://github.com/Velluso)
 
-- ⚡ Fun fact **World is Ending soon, So better commit your code before you....**
 
 
 
@@ -42,6 +41,10 @@
         alt="bootstrap" />
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
         alt="javascript" />
+      <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"
+        alt="vue" />
+      <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82"
+        alt="nuxt" />
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" />
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" />
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"
@@ -49,7 +52,10 @@
     <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
         alt="github" />
+      <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"
+        alt="git" />
         <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
+      <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql" alt="postgresql" />
         <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="spring" />
       <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="hibernate" />
       <img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black" alt="tomcat" />
